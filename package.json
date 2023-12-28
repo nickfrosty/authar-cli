@@ -1,0 +1,26 @@
+{
+  "name": "authar",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+  },
+  "type": "commonjs",
+  "main": "./src/index.ts",
+  "keywords": [
+  ],
+  "homepage": "https://github.com/nickfrosty/authar#readme",
+  "bugs": {
+    "url": "https://github.com/nickfrosty/authar/issues"
+  },
+  "repository": {
+    "name": "nickfrosty/authar",
+    "type": "git",
+    "url": "https://github.com/nickfrosty/authar"
+  },
+  "contributors": [
+    {
+      "name": "Nick Frostbutter",
+      "url": "https://github.com/nickfrosty"
+    }
+  ]
+}
